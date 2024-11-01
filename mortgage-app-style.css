@@ -1,0 +1,55 @@
+/* 
+    Document   : mortgage-app-style
+    Created on : 19 Sep, 2013, 2:30:11 PM
+    Author     : sourav mondal
+    Description: Purpose of the stylesheet follows.
+*/
+.MortCal {
+    background: none repeat scroll 0 0 #065276;
+    border-radius: 4px 4px 4px 4px;
+    padding: 5px;
+    width: 189px;
+    color: #fff;
+}
+.MortCal label{
+    font-size: 12px;
+}
+.MortCal h3{
+    margin: 0px !important;
+}
+.showresultmor {
+    background: none repeat scroll 0 0 gray;
+    border: 1px solid;
+    border-radius: 4px 4px 4px 4px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 70%;
+    font-size: 12px;
+    line-height: 16px;
+    color:white;
+    font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+.loanbutton {
+    background: none repeat scroll 0 0 green !important;
+    border: medium none !important;
+    cursor: pointer !important;
+    padding: 5px !important;
+    width: 45%;
+    color: white !important;
+    margin-top: 5px !important;
+}
+input[type="text"] {
+    cursor: pointer;
+    color: black;
+}
+.morhdcls{
+    font-weight: bold;
+    color: #00FF0E;
+}
+
+
+
